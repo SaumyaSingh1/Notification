@@ -1,3 +1,3 @@
 # Notification
 
-Send notifications through your Mobile Applications .
+Sample code to send notifications through your Mobile Applications .
